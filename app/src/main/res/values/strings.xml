@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="username">Username</string>
+    <string name="password">password</string>
+    <string name="login">Login</string>
+    <string name="signup">Signup</string>
+    <string name="fullname">Fullname</string>
+    <string name="email">email</string>
+    <string name="Loginhere">Already have an accound? <u>Login</u></string>
+    <string name="signuphere">Creat a new account? Sign up</string>
+    <string name="welcome">Welcome</string>
+    <string name="fetchdatatest">FetchDataTest</string>
+    <string name="linechart">LineChart</string>
+    <string name="temperature">Temperature</string>
+    <string name="motion">Motion</string>
+    <string name="home">Home</string>
+    <string name="temperature_graph">Temperature Graph</string>
+    <string name="motion_graph">Motion Graph</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
